@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![image](https://user-images.githubusercontent.com/75901275/188195209-f582955b-3597-4b2c-a28a-419bdd153c3b.png)
+
+Conversational Voice Controlled React News Application using Alan AI. Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
